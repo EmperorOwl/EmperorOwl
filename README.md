@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @EmperorOwl
+- 👋 Hi, I’m @EmperorOwl!
 - 👀 I’m interested in Discord bots.
 - 🌱 I’m currently learning Python.
 - 💞️ I’m looking to collaborate on Discord bots.
